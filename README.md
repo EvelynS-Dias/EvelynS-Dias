@@ -1,16 +1,12 @@
-## Hi there 👋
+# :wave: Oi, meu nome é Evelyn! 
 
-<!--
-**EvelynS-Dias/EvelynS-Dias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Aprendendo programação junto com o [Programadores do amanhã ](https://programadoresdoamanha.org.br/pt) e Sistema da Informação no IFSP
+- Gosto muito de aprender e sempre vou atrás de me desenvolver cada vez mais.
+- Buscando por emprego na área do Back-end
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :hammer_and_wrench: linguagens
+<div style='display:flex; justify-content:space-between;'>
+<img width='80cm' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img width='80cm' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img width= '80cm' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+</div>
