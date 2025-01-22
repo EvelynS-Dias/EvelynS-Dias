@@ -3,9 +3,10 @@
 
 ## Sobre mim 
 - :books: Aprendendo programação junto com o [Programadores do amanhã ](https://programadoresdoamanha.org.br/pt) e Sistema da Informação no IFSP
-- :computer: Atualmente aprendendo mais sobre SQL, Node, Java...
+- :computer: Atualmente aprendendo mais sobre SQL, Node, Java... Sempre em busca de me tornar uma boa profissional e desenvolvedora back-end!
 - :bulb: Gosto muito de aprender e sempre vou atrás de me desenvolver cada vez mais! 
-- Buscando por estágio dentro da área do Back-end
+
+- Atualmente estou buscando por estágio dentro da área do Back-end
 
 ## :hammer_and_wrench: linguagens
 <div style='display:flex; justify-content:space-between;'>
