@@ -1,5 +1,5 @@
 # :wave: Oi, meu nome é Evelyn! 
-- Bem vindo ao meu perfil! É um prazer ter você por aqui.
+- Bem vindo ao meu perfil! É um prazer ter você por aqui. :slightly_smiling_face:	
 
 ## Sobre mim 
 - :books: Aprendendo programação junto com o [Programadores do amanhã ](https://programadoresdoamanha.org.br/pt) e Sistema da Informação no IFSP
