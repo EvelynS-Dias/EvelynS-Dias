@@ -1,6 +1,7 @@
 # :wave: Oi, meu nome é Evelyn! 
 - Bem vindo ao meu perfil! É um prazer ter você por aqui.
 
+## Sobre mim 
 - :books: Aprendendo programação junto com o [Programadores do amanhã ](https://programadoresdoamanha.org.br/pt) e Sistema da Informação no IFSP
 - :computer: Atualmente aprendendo mais sobre SQL, Node, Java...
 - :bulb: Gosto muito de aprender e sempre vou atrás de me desenvolver cada vez mais! 
