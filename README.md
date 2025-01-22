@@ -1,8 +1,10 @@
 # :wave: Oi, meu nome é Evelyn! 
+- Bem vindo ao meu perfil! É um prazer ter você por aqui.
 
-- Aprendendo programação junto com o [Programadores do amanhã ](https://programadoresdoamanha.org.br/pt) e Sistema da Informação no IFSP
-- Gosto muito de aprender e sempre vou atrás de me desenvolver cada vez mais.
-- Buscando por emprego na área do Back-end
+- :books: Aprendendo programação junto com o [Programadores do amanhã ](https://programadoresdoamanha.org.br/pt) e Sistema da Informação no IFSP
+- :computer: Atualmente aprendendo mais sobre SQL, Node, Java...
+- :bulb: Gosto muito de aprender e sempre vou atrás de me desenvolver cada vez mais! 
+- Buscando por estágio dentro da área do Back-end
 
 ## :hammer_and_wrench: linguagens
 <div style='display:flex; justify-content:space-between;'>
