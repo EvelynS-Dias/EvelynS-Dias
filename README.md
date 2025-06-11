@@ -2,7 +2,6 @@
 - Bem vindo ao meu perfil! É um prazer ter você por aqui. :slightly_smiling_face:	
 
 ## Sobre mim 
-- 
 - :books: Aprendendo programação junto com o [Programadores do amanhã ](https://programadoresdoamanha.org.br/pt) e Sistema da Informação no IFSP
 - :computer: Focada no desenvolvimento back-end, atualmente aprendendo sobre Java
 - :bulb:  Apaixonada por aprender e sempre em busca de evolução contínua, tanto como pessoa quanto como profissional.
